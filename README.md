@@ -1,2 +1,5 @@
-# Machine-Learning-Project
-Insurance Prediction
+pip install streamlit
+
+cd cloud
+
+streamlit run main.py
